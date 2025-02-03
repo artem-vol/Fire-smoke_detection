@@ -1,4 +1,4 @@
-# Motion detection
+# Fire-smoke detection
 ![GitHub top language](https://img.shields.io/github/languages/top/artem-vol/Fire-smoke_detection)
 
 Fire and smoke object detection, using YOLOV8
